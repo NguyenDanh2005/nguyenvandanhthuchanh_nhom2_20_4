@@ -1,10 +1,10 @@
 # Laravel Social Login – Đăng nhập Google & Facebook
 
-<!--
-Họ tên: Nguyễn Văn Danh
-Mã sinh viên: 23810310136
-Lớp: D18CNPM2
--->
+
+- Họ tên: Nguyễn Văn Danh
+- Mã sinh viên: 23810310136
+- Lớp: D18CNPM2
+
 
 > Thực hành 20/04/2026 – Lập trình Web Nâng Cao với XAMPP & Laravel  
 > Chức năng đăng nhập bằng Google và Facebook sử dụng Laravel Socialite (OAuth 2.0)
