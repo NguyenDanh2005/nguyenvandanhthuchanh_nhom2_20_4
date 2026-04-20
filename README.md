@@ -130,5 +130,3 @@ User click "Đăng nhập Google/Facebook"
 - Nút **Đăng nhập với Facebook** → OAuth Facebook flow
 - Sau đăng nhập: hiển thị tên, email, avatar, provider, mã sinh viên
 - Nút **Đăng xuất** → xóa session, về trang login
-## Video Demo
-[Xem video demo tại đây]([https://drive.google.com/...](https://drive.google.com/file/d/1KTyhMfqrir-M2afNi_Kb3xpRlTVOU2bx/view?usp=sharing))
